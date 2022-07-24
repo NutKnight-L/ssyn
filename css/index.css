@@ -27,10 +27,8 @@ a:link {
     color: #000;
     text-decoration: none;
 }
-a:visited {
-    color: #fff;
-}
 a:hover {
+    transition: .3s;
     color: rgb(255, 255, 255);
     background-color: #51c7d6;
     font-weight: bold;

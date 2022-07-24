@@ -12,6 +12,5 @@ function a_visited(){
         else {
             afooter[i].className = "";
         }
-        
     }
 }
